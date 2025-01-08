@@ -10,4 +10,6 @@ My name is Karol Jędrzejak. I have been interested in computer science and robo
 
 ## Projects 🚀
 
-
+- ### [Management Platform V2](https://www.youtube.com/watch?v=wAOztZSRKtQ)
+A multifunctional platform prepared specially for the company's needs. Created for Technika Spawalnicza Company.
+Tech: laravel, php, mysql, bootstrap, jquerry, javascript, scss, html,
