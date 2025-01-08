@@ -12,10 +12,10 @@ My name is Karol Jędrzejak. I have been interested in computer science and robo
 
 - ### [Management Platform V2](https://www.youtube.com/watch?v=wAOztZSRKtQ) [Since 2023]
 A multifunctional platform prepared specially for the company's needs. Created for Technika Spawalnicza Company. Some of the functionalities of the project:
-- Preparation of offers for robotic system - calulating prices (communication with nbp api) and creating offer in pdf, automatic translation using google api,
+- Preparation of offers for robotized systems - calulating prices (communication with nbp api) and creating offer in pdf, automatic translation using google api,
+- Database of robotized systems - statistics, maps, detailed infomation,
+- Database of companies and contacts - basic information, maps, contact history, statistics,
 - Database of trained staff - including pdf certificate generation,
-- Database of robotized systems - statistics, ,
-- Database of companies and contacts - basic information, contact history, statistics,
 - Communal calendar,
 - Tasklists,
 
