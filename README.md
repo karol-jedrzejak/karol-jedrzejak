@@ -14,7 +14,7 @@ My name is Karol Jędrzejak. I have been interested in computer science and robo
 A multifunctional platform prepared specially for the company's needs. Created for Technika Spawalnicza Company. Some of the functionalities of the project:
 - Preparation of offers for robotized systems - calulating prices (communication with nbp api) and creating offer in pdf, automatic translation using google api,
 - Database of robotized systems - statistics, maps, detailed infomation,
-- Database of companies and contacts - basic information, maps, contact history, statistics,
+- Database of companies and emloyees - basic information, maps, contact history, statistics,
 - Database of trained staff - including pdf certificate generation,
 - Communal calendar,
 - Tasklists,
@@ -22,8 +22,10 @@ A multifunctional platform prepared specially for the company's needs. Created f
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/231px-Laravel.svg.png" height="25">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/320px-PHP-logo.svg.png" height="25">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MySQL_textlogo.svg/320px-MySQL_textlogo.svg.png" height="25">   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/PhpMyAdmin_logo.png" height="25">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/301px-Bootstrap_logo.svg.png" height="25">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/JQuery_logo_text.svg/320px-JQuery_logo_text.svg.png" height="25">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/240px-Unofficial_JavaScript_logo_2.svg.png" height="25">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/244px-Vitejs-logo.svg.png" height="25">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/320px-Sass_Logo_Color.svg.png" height="25">
 
 - ### [Company Contacts App](https://github.com/karol-jedrzejak/company-contacts-app) [2025 in Development]
-A website for managing contacts. 
-
+A website for managing contacts. Some of the functionalities of the project:
+- Database of companies and emloyees - basic information, maps, contact history,
+- Tasklists,
+  
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/231px-Laravel.svg.png" height="25"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/320px-PHP-logo.svg.png" height="25"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MySQL_textlogo.svg/320px-MySQL_textlogo.svg.png" height="25"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/PhpMyAdmin_logo.png" height="25"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/260px-React_Logo_SVG.svg.png" height="25"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/320px-Tailwind_CSS_logo.svg.png" height="25"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/240px-Unofficial_JavaScript_logo_2.svg.png" height="25">
 
 - ### [City Stats](https://github.com/karol-jedrzejak/city_stats_react) [2024]
