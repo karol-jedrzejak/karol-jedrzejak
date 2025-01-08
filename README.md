@@ -8,3 +8,9 @@ My name is Karol Jędrzejak. I have been interested in computer science and robo
 - Databases: MySQL, PostgrSQL, SQL,
 - Tools: Git, Docker, Figma, Excel, Corel Draw, Sony Vegas, Davinci Resolve,
 
+## Projects 🚀
+
+🌐 Full Stack
+
+
+
