@@ -10,6 +10,9 @@ My name is Karol Jędrzejak. I have been interested in computer science and robo
 
 ## Projects 🚀
 
-- ### [Management Platform V2](https://www.youtube.com/watch?v=wAOztZSRKtQ)
+- ### [Management Platform V2](https://www.youtube.com/watch?v=wAOztZSRKtQ) - Since 2023
 A multifunctional platform prepared specially for the company's needs. Created for Technika Spawalnicza Company.
+
 Tech: laravel, php, mysql, bootstrap, jquerry, javascript, scss, html,
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/231px-Laravel.svg.png" height="25"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/320px-PHP-logo.svg.png" height="25"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MySQL_textlogo.svg/320px-MySQL_textlogo.svg.png" height="25"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/PhpMyAdmin_logo.png" height="25"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/301px-Bootstrap_logo.svg.png" height="25"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/JQuery_logo_text.svg/320px-JQuery_logo_text.svg.png" height="25"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/240px-Unofficial_JavaScript_logo_2.svg.png" height="25">
