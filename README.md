@@ -10,7 +10,4 @@ My name is Karol Jędrzejak. I have been interested in computer science and robo
 
 ## Projects 🚀
 
-🌐 Full Stack
-
-
 
