@@ -36,3 +36,19 @@ A website displaying statistics about cities around the world. Backend developed
 
 ## [GPS Coordinates Finder](https://github.com/karol-jedrzejak/GPS-Coordinates-Finder) [2023] <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/240px-Unofficial_JavaScript_logo_2.svg.png" height="25"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/301px-Bootstrap_logo.svg.png" height="25"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Html5_css3_styling.svg/265px-Html5_css3_styling.svg.png" height="25">
 Aplication for finding GPS coordinates based on adress or the other way (GPS->adress). Developed with usage of bootstrap, javascript & html. Communication with external api [Leaflet](https://leafletjs.com/).
+
+## [Shots From Deneb Website](https://github.com/karol-jedrzejak/shots-from-deneb) [2023] <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/260px-React_Logo_SVG.svg.png" height="25">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/240px-Unofficial_JavaScript_logo_2.svg.png" height="25">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Html5_css3_styling.svg/265px-Html5_css3_styling.svg.png" height="25">
+Website of the band in which I played guitar.
+
+## [Band Rehersal Calendar](https://github.com/karol-jedrzejak/Band-Rehersal-Calendar) [2023] <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/260px-React_Logo_SVG.svg.png" height="25">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/240px-Unofficial_JavaScript_logo_2.svg.png" height="25">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Html5_css3_styling.svg/265px-Html5_css3_styling.svg.png" height="25">
+Application with a calendar for booking band rehearsal room. Final project from the React course.
+
+## Management Platform [2022-2023] <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/320px-PHP-logo.svg.png" height="25">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MySQL_textlogo.svg/320px-MySQL_textlogo.svg.png" height="25">   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/PhpMyAdmin_logo.png" height="25">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/240px-Unofficial_JavaScript_logo_2.svg.png" height="25">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Html5_css3_styling.svg/265px-Html5_css3_styling.svg.png" height="25">
+A multifunctional platform prepared specially for the company's needs. Created for Technika Spawalnicza Company.
+
+## [Cypisek Nursery Website](https://github.com/karol-jedrzejak/Zlobek-Cypisek) [2022] <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/240px-Unofficial_JavaScript_logo_2.svg.png" height="25">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Html5_css3_styling.svg/265px-Html5_css3_styling.svg.png" height="25">
+'Cypisek' nursery webiste.
+
+## [Exiled Website](https://github.com/karol-jedrzejak/Exiled) [2021] <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/240px-Unofficial_JavaScript_logo_2.svg.png" height="25">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Html5_css3_styling.svg/265px-Html5_css3_styling.svg.png" height="25">
+Website of the band Exiled in which I played and sing.
+
