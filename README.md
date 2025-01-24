@@ -5,7 +5,7 @@ My name is Karol Jędrzejak. I have been interested in computer science and robo
 # Skills 🧩
 - Languages: PHP, JavaScript, TypeScript, C++, HTML,
 - Frameworks: Laravel, Symfony, React.js, Bootstrap, Tailwind,
-- Databases: MySQL, PostgrSQL, SQL,
+- Databases: MySQL, PostgreSQL, SQL,
 - Tools: Git, Docker, Figma, Excel, Corel Draw, Sony Vegas, Davinci Resolve,
 
 # Projects 🚀
