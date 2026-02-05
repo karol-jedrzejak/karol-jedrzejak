@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Karol Jędrzejak. I have been interested in computer science and robotics since I was a child. I started my education in these fields in high school in an IT class. Then I completed studies in the Automation and Robotics profile, obtaining a master's degree in engineering. Currently, I work at Technika Spawalnicza as a full stack developer/ head of robot programing department. In current job, i deal with both programming CRM web applications (laravel, react, php, mysql, tailwind, bootstrap) and programming industrial robots. My main interests outside of work are running and music. I play guitar and sing in a rock band. I collect vinyl records. I like playing board and card games (MTG) with my friends. In my free time, I watch old science fiction and horror movies from the 80s and 90s and learn new things related to programming.
+Hi, I’m Karol Jędrzejak, a Full-Stack Developer and Head of the Robot Programming Department at Technika Spawalnicza. I design and develop CRM web applications using Laravel, React, PHP, MySQL, Tailwind, and Bootstrap, and also program industrial robots. I have a master’s degree in Automation and Robotics and a lifelong passion for programming and technology. Outside of work, I enjoy running, playing guitar in a rock band, collecting vinyl, board games (MTG), and watching classic sci-fi and horror movies.
 
 # Techstack 🧩
 
