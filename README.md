@@ -26,7 +26,15 @@ Frontend:
 
 # Projects 🚀
 
-## [DeleGo](https://github.com/karol-jedrzejak/DeleGo) [2026] <sup>stack: laravel, react, php, mysql, phpmyadmin, typescript, javascript, tailwind, vite.js, api, json, docker</sup>
+## [DeleGo](https://github.com/karol-jedrzejak/DeleGo) [2026] ![Laravel](https://img.shields.io/badge/Laravel-EF3B2D?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![API](https://img.shields.io/badge/API-REST-0A66C2?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 Application for settling business trips. 2 separate apllications - Backend App in Laravel, Frontend App in React + Tailwind. In Progress.
 
 ## [Management Platform V2](https://www.youtube.com/watch?v=wAOztZSRKtQ) [Since 2023] <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/231px-Laravel.svg.png" height="25">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/320px-PHP-logo.svg.png" height="25">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MySQL_textlogo.svg/320px-MySQL_textlogo.svg.png" height="25">   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/PhpMyAdmin_logo.png" height="25">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/301px-Bootstrap_logo.svg.png" height="25">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/JQuery_logo_text.svg/320px-JQuery_logo_text.svg.png" height="25">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/240px-Unofficial_JavaScript_logo_2.svg.png" height="25">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/244px-Vitejs-logo.svg.png" height="25">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/320px-Sass_Logo_Color.svg.png" height="25">   <img src="https://e7.pngegg.com/pngimages/50/606/png-clipart-computer-icons-scalable-graphics-api-icon-text-logo-thumbnail.png" height="25">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/240px-JSON_vector_logo.svg.png" height="25">
