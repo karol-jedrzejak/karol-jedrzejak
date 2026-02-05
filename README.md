@@ -3,6 +3,13 @@
 My name is Karol Jędrzejak. I have been interested in computer science and robotics since I was a child. I started my education in these fields in high school in an IT class. Then I completed studies in the Automation and Robotics profile, obtaining a master's degree in engineering. Currently, I work at Technika Spawalnicza as a programmer and robotization specialist. In current job, i deal with both programming CRM web applications (laravel, php, mysql, bootstrap) and programming industrial robots. My main interests outside of work are running and music. I play guitar and sing in a rock band. I collect vinyl records. I like playing board and card games (MTG) with my friends. In my free time, I watch old science fiction and horror movies from the 80s and 90s and learn new things related to programming.
 
 # Skills 🧩
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+
+
+
 - Languages: PHP, JavaScript, TypeScript, C++, HTML,
 - Frameworks: Laravel, Symfony, React.js, Bootstrap, Tailwind,
 - Databases: MySQL, PostgreSQL, SQL,
