@@ -1,40 +1,28 @@
 # Hi there 👋
 
-My name is Karol Jędrzejak. I have been interested in computer science and robotics since I was a child. I started my education in these fields in high school in an IT class. Then I completed studies in the Automation and Robotics profile, obtaining a master's degree in engineering. Currently, I work at Technika Spawalnicza as a programmer and robotization specialist. In current job, i deal with both programming CRM web applications (laravel, php, mysql, bootstrap) and programming industrial robots. My main interests outside of work are running and music. I play guitar and sing in a rock band. I collect vinyl records. I like playing board and card games (MTG) with my friends. In my free time, I watch old science fiction and horror movies from the 80s and 90s and learn new things related to programming.
+My name is Karol Jędrzejak. I have been interested in computer science and robotics since I was a child. I started my education in these fields in high school in an IT class. Then I completed studies in the Automation and Robotics profile, obtaining a master's degree in engineering. Currently, I work at Technika Spawalnicza as a full stack developer/ head of robot programing department. In current job, i deal with both programming CRM web applications (laravel, react, php, mysql, tailwind, bootstrap) and programming industrial robots. My main interests outside of work are running and music. I play guitar and sing in a rock band. I collect vinyl records. I like playing board and card games (MTG) with my friends. In my free time, I watch old science fiction and horror movies from the 80s and 90s and learn new things related to programming.
 
-# Skills 🧩
+# Techstack 🧩
 
+Backend:
 ![Laravel](https://img.shields.io/badge/Laravel-EF3B2D?style=flat&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+Frontend:
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
-![API](https://img.shields.io/badge/API-REST-0A66C2?style=flat)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-
-
-- Languages: PHP, JavaScript, TypeScript, C++, HTML,
-- Frameworks: Laravel, Symfony, React.js, Bootstrap, Tailwind,
-- Databases: MySQL, PostgreSQL, SQL,
-- Tools: Git, Docker, Figma, Excel, Corel Draw, Sony Vegas, Davinci Resolve,
 
 # Projects 🚀
 
