@@ -1,6 +1,12 @@
 # Hi there 👋
 
-Hi, I’m Karol Jędrzejak, a Full-Stack Developer and Head of the Robot Programming Department at Technika Spawalnicza. I design and develop CRM web applications using Laravel, React, PHP, MySQL, Tailwind, and Bootstrap, and also program industrial robots. I have a master’s degree in Automation and Robotics and a lifelong passion for programming and technology. Outside of work, I enjoy running, playing guitar in a rock band, collecting vinyl, board games (MTG), and watching classic sci-fi and horror movies.
+I'm Karol Jędrzejak, a **Full-Stack Developer** focused on building modern business web applications.
+
+My main stack includes **React, Nest.js, Next.js, TypeScript, JavaScript, Laravel, PHP, MySQL, REST APIs, and Docker**. I design and develop CRM systems, internal business applications, and decoupled frontend/backend solutions, with a focus on clean architecture, maintainability, and practical business requirements.
+
+Currently, I work on custom software solutions, including CRM platforms and a business trip management system built with a React/TypeScript frontend and Laravel REST API.
+
+I also have a background in **Automation and Robotics**, including experience in industrial robot programming. This combination of software development and engineering helps me approach problems from both a technical and practical perspective.
 
 # Techstack 🧩
 
@@ -8,14 +14,14 @@ Backend:
 ![Laravel](https://img.shields.io/badge/Laravel-EF3B2D?style=flat&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Nest.js](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 Frontend:
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
